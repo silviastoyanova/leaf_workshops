@@ -76,7 +76,7 @@
 	"id": "https://raw.githubusercontent.com/silviastoyanova/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240220154606582",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-20T21:46:06.582Z",
-	"dcterms:modified": "2024-02-20T21:46:06.582Z",
+	"dcterms:modified": "2024-02-20T21:48:46.479Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/silviastoyanova",
 		"@type": [
@@ -117,7 +117,9 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.4.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high",
+	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -182,7 +184,7 @@
                men? For there is this extraordinarily deep instinct, something inside one; you can't
                get over it; it's no use trying; and men like Hugh respect it without our saying it,
                which is what one loves, thought Clarissa, in dear old Hugh.</p>
-            <p>She had passed through the <placeName key="Admiralty Arch" ref="http://www.wikidata.org/entity/Q359256">Admiralty Arch</placeName> and saw at the end of the empty road with
+            <p>She had passed through the <placeName key="Admiralty Arch" ref="http://www.wikidata.org/entity/Q359256" cert="high">Admiralty Arch<precision match="@ref" precision="high"/></placeName> and saw at the end of the empty road with
                its thin trees Victoria's white mound, Victoria's billowing motherliness, amplitude
                and homeliness, always ridiculous, yet how sublime, thought Mrs Dalloway, remembering
                 and the old lady in horn spectacles and being told by Nanny to
